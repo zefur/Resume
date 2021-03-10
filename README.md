@@ -1,7 +1,7 @@
 
 <p align= "right"> Email: Jdhall@live.co.uk</br>
-current location: UK<br/>
-available: worldwide</p>
+Current location: UK<br/>
+Available: worldwide</p>
 <h1 align= "center"> James Hall </h1>
 
 [Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Contact](#contact)
