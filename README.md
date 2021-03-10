@@ -35,6 +35,7 @@ Here are some of the projects I have worked on or that are currently in progress
 STEM Teacher – Wuhan Optics Valley Foreign Language School
 
 Key responsibilities 
+
 -	Teaching STEM science Grades 7-9
 -	Preparing school curriculum 
 -	Covering primary school grade 2 classes
@@ -42,6 +43,7 @@ Key responsibilities
 Teacher - Webi English (2016 – October 2019)
 
 Key responsibilities
+
 -	Teaching Business and Conversational English 
 -	Developing Content 
 -	Giving Presentations on English Language, Life in the UK, Culture differences and various other topics
@@ -49,6 +51,7 @@ Key responsibilities
 Editor - Best Education (November 2014 - Present)
 
 Key responsibilities
+
 -	Editing various documents for grammar mistakes
 -	Suggesting alternative phrases to help with fluency
 -	Explaining mistakes and showing how to correct writing 
@@ -56,6 +59,7 @@ Key responsibilities
 Various Part-time Teaching Jobs (November 2014 - Present)
 
 Key responsibilities:
+
 -	Planning content
 -	Improving speaking skills
 -	English test preparation
@@ -64,6 +68,7 @@ Key responsibilities:
 HHS Au Pair in China (July 2014 - 2017)
 
 Key responsibilities:
+
 -	Being a guardian to a 7-year-old child
 -	Planning lessons for her and various other children
 -	Sharing English culture and telling her about where I am from
