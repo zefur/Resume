@@ -1,8 +1,11 @@
 ## James Hall
+<div align = "left"> Email: Jdhall@live.co.uk</div>
 
 [Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Contact](#contact)
 
-A mostly self taught developer who has worked in both customer facing and behind the scenes before transitioning into tech. A team player with developed interpersonal skills, who welcomes challenges and demonstrates reliability and adaptability. I'm a quick learner with a keen interest in exploring web technologies, and a genuine passion for solving everyday problems through code.
+A mostly self taught developer who has worked in both customer facing and behind the scenes roles before transitioning into tech. Highly self-motivated with the ability to manage and maintain strong business relationships. Focused on exceeding customer expectations and committed to achieving a high level of customer service. Fast learning and productive with a broad range of work experience. A team player with developed interpersonal skills, who welcomes challenges and demonstrates reliability and adaptability. I'm a quick learner with a keen interest in exploring web technologies, and a genuine passion for solving everyday problems through code.
+
+Highly adaptable, currently seeking new challenges, making best use of existing skills and experiences with option for further development and growth.
 
 ## <a name="skills">Skills</a>
 #### Communication
@@ -23,16 +26,17 @@ Here are some of the projects I have worked on or that are currently in progress
 |Project|Summary|Tech stack|
 |---|---|---|
 |[Supertictac](https://github.com/zefur/supertictac)| a game of ultimate Noughts and Crosses|ruby, Ruby on rails, stimulusReflex|
-|[Vetbook497](https://github.com/zefur/vetbook497) |A Vetinary appointment management system (proof of concept)|Ruby, Rails HTML CSS Stimulus Reflex)|
-|[jdhall.dev](https://github.com/zefur/updated-site) |My website with blog and portfolio |Ruby, Rails, HTML, CSS, JS |
-|[TicTac](https://github.com/zefur/tictac) |A game of noughts and crosses you can play with a partner or against a random computer player |HTML, CSS, JS |
-|[Choredoor](https://github.com/zefur/chores)|A simple game built with vanilla HTML CSS and JS|HTML, CSS, JS|
+|[Vetbook497](https://vetbook497.herokuapp.com) |A Vetinary appointment management system (proof of concept)|Ruby, Rails HTML CSS Stimulus Reflex)|
+|[jdhall.dev](https://jdhall.dev) |My website with blog and portfolio |Ruby, Rails, HTML, CSS, JS |
+|[React rogue](https://reactrogue.netlify.app)| A rogue like game built in react | React|
+|[TicTac](https://zefur.github.io/tictac/) |A game of noughts and crosses you can play with a partner or against a random computer player |HTML, CSS, JS |
+|[Choredoor](https://zefur.github.io/chores/)|A simple game built with vanilla HTML CSS and JS|HTML, CSS, JS|
 
 ## <a name="experience">Experience</a>
 
-#### Employment Summary - China
+### Employment Summary - China
 
-STEM Teacher – Wuhan Optics Valley Foreign Language School
+#### STEM Teacher – Wuhan Optics Valley Foreign Language School
 
 Key responsibilities 
 
@@ -40,7 +44,7 @@ Key responsibilities
 -	Preparing school curriculum 
 -	Covering primary school grade 2 classes
 
-Teacher - Webi English (2016 – October 2019)
+#### Teacher - Webi English (2016 – October 2019)
 
 Key responsibilities
 
@@ -48,7 +52,7 @@ Key responsibilities
 -	Developing Content 
 -	Giving Presentations on English Language, Life in the UK, Culture differences and various other topics
 
-Editor - Best Education (November 2014 - Present)
+#### Editor - Best Education (November 2014 - Present)
 
 Key responsibilities
 
@@ -56,7 +60,7 @@ Key responsibilities
 -	Suggesting alternative phrases to help with fluency
 -	Explaining mistakes and showing how to correct writing 
 
-Various Part-time Teaching Jobs (November 2014 - Present)
+#### Various Part-time Teaching Jobs (November 2014 - Present)
 
 Key responsibilities:
 
@@ -65,7 +69,7 @@ Key responsibilities:
 -	English test preparation
 -	Developing debating skills
 
-HHS Au Pair in China (July 2014 - 2017)
+#### HHS Au Pair in China (July 2014 - 2017)
 
 Key responsibilities:
 
@@ -75,9 +79,9 @@ Key responsibilities:
 -	Sharing my experiences
 -	Helping to improve her English through games and activities
 
-#### Employment Summary - England
+### Employment Summary - England
 
-Archivist – Pinsent Masons LLP, London (August 2008 – June 2014)
+#### Archivist – Pinsent Masons LLP, London (August 2008 – June 2014)
 
 Key responsibilities:
 
@@ -89,7 +93,7 @@ Key responsibilities:
 -	Training staff members how to use specialist systems and preparing training materials
 -	First point of contact for internal departmental queries and external client queries
 
-Retail Assistant – Woolworths, London (November 2005 - June 2008)
+#### Retail Assistant – Woolworths, London (November 2005 - June 2008)
 
 Key responsibilities:
 -	Deliver excellent customer service in a busy and demanding environment
@@ -98,7 +102,7 @@ Key responsibilities:
 -	Coordinate regular stockroom audits 
 
 
-English Tutor (ESL) –  Selah Choir Korean Summer School (Summer 2006 & 2007)
+#### English Tutor (ESL) –  Selah Choir Korean Summer School (Summer 2006 & 2007)
 
 Key responsibilities:
 -	Tutoring two classes of seven children aged 7-13
