@@ -1,4 +1,8 @@
-## James Hall
+
+<p align= "right"> Email: Jdhall@live.co.uk</br>
+current location: UK<br/>
+available: worldwide</p>
+<h1 align= "center"> James Hall </h1>
 
 [Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Contact](#contact)
 
@@ -112,4 +116,4 @@ Key responsibilities:
 
 ## <a name="contact">Contact</a>
 
-Please don't hesitate to contact me on [LinkedIn](https://www.linkedin.com/in/j-d-hall/)  at any time if you are looking for a passionate developer who can work collaboratively and prides themselves on using software craftsmanship best practices.
+Please don't hesitate to contact me at my email address Jdhall@live.co.uk or on [LinkedIn](https://www.linkedin.com/in/j-d-hall/)  at any time if you are looking for a passionate developer who can work collaboratively and prides themselves on using software craftsmanship best practices.
