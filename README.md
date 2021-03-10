@@ -1,5 +1,4 @@
 ## James Hall
-<div align = "left"> Email: Jdhall@live.co.uk</div>
 
 [Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Contact](#contact)
 
