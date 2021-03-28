@@ -4,9 +4,10 @@ Current location: UK<br/>
 Available: worldwide</p>
 <h1 align= "center"> James Hall </h1>
 
-[Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Contact](#contact)
+[Skills](#skills) | [Projects](#projects)| [Education](#education) | [Experience](#experience) | [Contact](#contact)
 
-A mostly self taught developer who has worked in both customer facing and behind the scenes roles before transitioning into tech. Highly self-motivated with the ability to manage and maintain strong business relationships. Focused on exceeding customer expectations and committed to achieving a high level of customer service. Fast learning and productive with a broad range of work experience. A team player with developed interpersonal skills, who welcomes challenges and demonstrates reliability and adaptability. I'm a quick learner with a keen interest in exploring web technologies, and a genuine passion for solving everyday problems through code.
+An enthusiastic professional keen to learn new skills, with an interest in technology. A team player with developed interpersonal skills, who welcomes challenges and demonstrates reliability and adaptability. The ability to prioritise whilst working under pressure is demonstrated by my combining studying with work.
+
 
 Highly adaptable, currently seeking new challenges, making best use of existing skills and experiences with option for further development and growth.
 
@@ -34,6 +35,14 @@ Here are some of the projects I have worked on or that are currently in progress
 |[React rogue](https://reactrogue.netlify.app)| A rogue like game built in react | React|
 |[TicTac](https://zefur.github.io/tictac/) |A game of noughts and crosses you can play with a partner or against a random computer player |HTML, CSS, JS |
 |[Choredoor](https://zefur.github.io/chores/)|A simple game built with vanilla HTML CSS and JS|HTML, CSS, JS|
+
+## <a name="education">Education </a>
+
+### Full Stack Web Development
+ Le Wagon (Shanghai) - September - December 2020
+
+### Chinese Language BA
+Wuhan University - September 2014 - January 2019
 
 ## <a name="experience">Experience</a>
 
