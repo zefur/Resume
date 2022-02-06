@@ -1,6 +1,6 @@
 
 <p align= "right"> Email: Jdhall@live.co.uk</br>
-Current location: UK<br/>
+Current location: China<br/>
 Available: worldwide</p>
 <h1 align= "center"> James Hall </h1>
 
@@ -28,15 +28,19 @@ Here are some of the projects I have worked on or that are currently in progress
 
 |Project|Summary|Tech stack|
 |---|---|---|
+|[chingu Trivia](https://chingu-trivia.herokuapp.com)| A quiz that pulls from an api for questions|Svelte, Tailwindcss|
 |[Supertictac](https://github.com/zefur/supertictac)| a game of ultimate Noughts and Crosses|ruby, Ruby on rails, stimulusReflex|
 |[Vetbook497](https://vetbook497.herokuapp.com) |A Vetinary appointment management system (proof of concept)|Ruby, Rails HTML CSS Stimulus Reflex)|
-|[jdhall.dev](https://jdhall.dev) |My website with blog and portfolio |Ruby, Rails, HTML, CSS, JS |
+|[jdhall.dev](https://jdhall.dev) |My website with blog and portfolio (currently offline) |Ruby, Rails, HTML, CSS, JS |
 |[React rogue](https://reactrogue.netlify.app)| A rogue like game built in react | React|
 |[TicTac](https://zefur.github.io/tictac/) |A game of noughts and crosses you can play with a partner or against a random computer player |HTML, CSS, JS |
 |[Choredoor](https://zefur.github.io/chores/)|A simple game built with vanilla HTML CSS and JS|HTML, CSS, JS|
 
 
 ## <a name="education">Education </a>
+
+#### Practical AI bootcamp for Professionals and Non-coders
+Unpack Ai - November - December 2021
 
 #### Full Stack Web Development
 Le Wagon (Shanghai) - September - December 2020
@@ -48,6 +52,14 @@ Wuhan University - September 2014 - January 2019
 
 
 ### Employment Summary - China
+
+#### English Teacher - Young Kindergarten International
+
+Key responsibilities
+
+- Teaching English to students
+- Preparing lessons and activities
+- Helping the main teacher to manage the class
 
 #### STEM Teacher – Wuhan Optics Valley Foreign Language School
 
