@@ -28,14 +28,15 @@ Here are some of the projects I have worked on or that are currently in progress
 
 |Project|Summary|Tech stack|
 |---|---|---|
-|[chingu Trivia](https://chingu-trivia.herokuapp.com)| A quiz that pulls from an api for questions|Svelte, Tailwindcss|
+|*[chingu Trivia](https://chingu-trivia.herokuapp.com)| A quiz that pulls from an api for questions|Svelte, Tailwindcss|
 |[Supertictac](https://github.com/zefur/supertictac)| a game of ultimate Noughts and Crosses|ruby, Ruby on rails, stimulusReflex|
-|[Vetbook497](https://vetbook497.herokuapp.com) |A Vetinary appointment management system (proof of concept)|Ruby, Rails HTML CSS Stimulus Reflex)|
-|[jdhall.dev](https://github.com/zefur/updated-site) |My website with blog and portfolio (currently offline) old version is [portfolio](james-hall.herokuapp.com) |Ruby, Rails, HTML, CSS, JS |
+|*[Vetbook497](https://vetbook497.herokuapp.com) |A Vetinary appointment management system (proof of concept)|Ruby, Rails HTML CSS Stimulus Reflex)|
+|[jdhall.dev](https://github.com/zefur/updated-site) |My website with blog and portfolio (currently offline) old version is *[portfolio](james-hall.herokuapp.com) |Ruby, Rails, HTML, CSS, JS |
 |[React rogue](https://reactrogue.netlify.app)| A rogue like game built in react | React|
 |[TicTac](https://zefur.github.io/tictac/) |A game of noughts and crosses you can play with a partner or against a random computer player |HTML, CSS, JS |
 |[Choredoor](https://zefur.github.io/chores/)|A simple game built with vanilla HTML CSS and JS|HTML, CSS, JS|
 
+*Since Heroku stopped their free tier these are offline for now. 
 
 ## <a name="education">Education </a>
 
@@ -53,7 +54,15 @@ Wuhan University - September 2014 - January 2019
 
 ### Employment Summary - China
 
-#### English Teacher - Young Kindergarten International
+#### Oral English and Academic Writing teacher - Wuhan Ligong University
+
+Key responsibilities
+
+- Syllabus creation
+- Teaching the guidelines and techniques to academic writing
+- Preparing the students to pass the IELTs Exam
+
+#### English Teacher - Young Kindergarten International 
 
 Key responsibilities
 
