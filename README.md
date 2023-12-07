@@ -4,39 +4,32 @@ Current location: China<br/>
 Available: worldwide</p>
 <h1 align= "center"> James Hall </h1>
 
-[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Contact](#contact)
+[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Contact](#contact)
 
-A mostly self taught developer who has worked in both customer facing and behind the scenes roles before transitioning into tech. Highly self-motivated with the ability to manage and maintain strong business relationships. Focused on exceeding customer expectations and committed to achieving a high level of customer service. Fast learning and productive with a broad range of work experience. A team player with developed interpersonal skills, who welcomes challenges and demonstrates reliability and adaptability. I'm a quick learner with a keen interest in exploring web technologies, and a genuine passion for solving everyday problems through code.
+A mostly self taught developer who has worked in both customer facing and behind the scenes roles now transitioning into tech. Highly self-motivated with the ability to manage and maintain strong business relationships. Focused on exceeding customer expectations and committed to achieving a high level of customer service. Fast learning and productive with a broad range of work experience. A team player with developed interpersonal skills, who welcomes challenges and demonstrates reliability and adaptability. I'm a quick learner with a keen interest in exploring web technologies, and a genuine passion for solving everyday problems through code.
 
 Highly adaptable, currently seeking new challenges, making best use of existing skills and experiences with option for further development and growth.
 
-## <a name="skills">Skills</a>
+
+## <a name="skills">Key Skills</a>
 #### Communication
-Experience operating in cross cultural teams, able to present and communicate ideas at all levels confidently and clearly, both orally and written. A natural ability to sell to a consumer.
+Experience operating in cross cultural teams using multiple languages, able to present and communicate ideas at all levels confidently and clearly, both orally and written. 
+
+#### Problem Solving and Conflict Resolution
+Able to troubleshoot problems and collaborate to to work towards a mutually beneficial solution. 
 
 #### Customer Service
 Commitment to enhance customer loyalty. Deep empathy for consumer needs and behaviour. A natural communicator with the skill set to defuse situations as well as commit to a point of discussion professionally and negotiate the necessary outcome.
 
+#### Programming Languages and Frameworks
+Proficient with HTML, CSS, Javascript, Ruby, SVELTE and Rails.   
+
 #### Digital Skills
-Proficiency literacy in a range of software packages, including: Microsoft Word, Excel, Outlook, Enterprise, Filmmaker, Keystone, Citrix, Deeds Finder.
+Proficiency literacy in a range of software packages, including: Microsoft Word, Excel, Outlook, Enterprise, Filemaker, Keystone, Citrix, Deeds Finder.
 
 #### Language Ability
-Mandarin.
-## <a name="projects">Coding</a>
+Fluent in Mandarin 
 
-Here are some of the projects I have worked on or that are currently in progress
-
-|Project|Summary|Tech stack|
-|---|---|---|
-|*[chingu Trivia](https://chingu-trivia.herokuapp.com)| A quiz that pulls from an api for questions|Svelte, Tailwindcss|
-|[Supertictac](https://github.com/zefur/supertictac)| a game of ultimate Noughts and Crosses|ruby, Ruby on rails, stimulusReflex|
-|*[Vetbook497](https://vetbook497.herokuapp.com) |A Vetinary appointment management system (proof of concept)|Ruby, Rails HTML CSS Stimulus Reflex)|
-|[jdhall.dev](https://github.com/zefur/updated-site) |My website with blog and portfolio (currently offline) old version is *[portfolio](james-hall.herokuapp.com) |Ruby, Rails, HTML, CSS, JS |
-|[React rogue](https://reactrogue.netlify.app)| A rogue like game built in react | React|
-|[TicTac](https://zefur.github.io/tictac/) |A game of noughts and crosses you can play with a partner or against a random computer player |HTML, CSS, JS |
-|[Choredoor](https://zefur.github.io/chores/)|A simple game built with vanilla HTML CSS and JS|HTML, CSS, JS|
-
-*Since Heroku stopped their free tier these are offline for now. 
 
 ## <a name="education">Education </a>
 
@@ -58,17 +51,19 @@ Wuhan University - September 2014 - January 2019
 
 Key responsibilities
 
-- Syllabus creation
-- Teaching the guidelines and techniques to academic writing
+- Created and maintained a syllabus for introducing the foundational knowledge of writing for Academic Writing
+- Teaching of 130+ students weekly, with a good high pass rate   
+- Building students Confidence in English through engaging activities and lesson plans
 - Preparing the students to pass the IELTs Exam
 
 #### English Teacher - Young Kindergarten International 
 
 Key responsibilities
 
-- Teaching English to students
-- Preparing lessons and activities
-- Helping the main teacher to manage the class
+- Teaching English to students to young children 
+- Preparing lessons and exciting activities
+- Being the English group leader on day trips
+- Managing full classrooms (30+) of pre-schoolers keeping them engaged and ontrack 
 
 #### STEM Teacher – Wuhan Optics Valley Foreign Language School
 
@@ -90,8 +85,8 @@ Key responsibilities
 
 Key responsibilities
 
--	Editing various documents for grammar mistakes
--	Suggesting alternative phrases to help with fluency
+-	Corrected over 300 essays, personal statements, dissertations and other Academic work
+-	Gave recommendations on how to improve grammar, vocabulary and flow of various written pieces to improve readabilty, understanding and more natural in English
 -	Explaining mistakes and showing how to correct writing 
 
 #### Various Part-time Teaching Jobs (November 2014 - Present)
