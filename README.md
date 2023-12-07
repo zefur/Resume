@@ -24,9 +24,6 @@ Commitment to enhance customer loyalty. Deep empathy for consumer needs and beha
 #### Programming Languages and Frameworks
 Proficient with HTML, CSS, Javascript, Ruby, SVELTE and Rails.   
 
-#### Digital Skills
-Proficiency literacy in a range of software packages, including: Microsoft Word, Excel, Outlook, Enterprise, Filemaker, Keystone, Citrix, Deeds Finder.
-
 #### Language Ability
 Fluent in Mandarin 
 
@@ -35,16 +32,16 @@ Fluent in Mandarin
 
 #### Practical AI bootcamp for Professionals and Non-coders
 Unpack Ai - November - December 2021
+Learned about the practicality of Machine Learning and Data Cleaning
 
 #### Full Stack Web Development
 Le Wagon (Shanghai) - September - December 2020
+Polished my Ruby on Rails skills, and improved my understanding on how the framework works
 
 #### Chinese Language BA
 Wuhan University - September 2014 - January 2019
 
 ## <a name="experience">Experience</a>
-
-
 ### Employment Summary - China
 
 #### Oral English and Academic Writing teacher - Wuhan Ligong University
